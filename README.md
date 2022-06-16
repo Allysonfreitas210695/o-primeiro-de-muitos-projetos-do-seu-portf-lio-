@@ -21,3 +21,6 @@
 # ATUALIZAÇÃO
 > basta alterar o arquivo nesse exemplo, depois colocar "git add ." e depois "git commit -m
 > "atualizando arquivo".
+
+# SINCRONIZANDO GIT LOCAL COM SERVIDO
+> git pull
